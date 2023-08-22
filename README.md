@@ -2,6 +2,8 @@
 # Aim
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
+![image](https://github.com/adit2005/CAR-PRICE-PREDICTION-USING-LINEAR-REGRESSION/assets/119931302/8b286d6e-7385-4053-81da-18395119a4e8)
+
 
 ## How to use?
 
